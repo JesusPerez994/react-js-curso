@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 
 import tasks from './sample/tasks.json';
-//Componentes
+//Componentesxd
 import Tasks from './components/Tasks';
 import TaskForm from './components/TaskForm';
 import Posts from './components/Posts';
